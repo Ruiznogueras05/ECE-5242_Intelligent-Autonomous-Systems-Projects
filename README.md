@@ -32,3 +32,8 @@ Below are the four main projects completed during the course, each addressing un
 
 ## Repository Structure  
 Each project is organized into its own folder, containing the codebase, additional media, and detailed documentation. Further descriptions can be found in the individual project README files.  
+
+---
+
+## Disclaimer  
+This repository is intended for educational and portfolio purposes only. All code, designs, and reports were developed as part of the **Intelligent Autonomous Systems** course at Cornell Tech. Please respect the intellectual property and academic context in which this work was created. Unauthorized use or reproduction of the content herein for commercial purposes is prohibited.
