@@ -43,7 +43,7 @@ Ensure you have the following:
 ---
 
 ## Project Report
-For a detailed explanation of the methodology, results, and insights from this project, please refer to the **[Project 1 Report]([Project1_TrafficConeDetection/media/Project%201%20Report.pdf](https://github.com/Ruiznogueras05/ECE-5242_Intelligent-Autonomous-Systems-Projects/blob/main/Project1_TrafficConeDetection/media/Project%201%20Report.pdf))**.
+For a detailed explanation of the methodology, results, and insights from this project, please refer to the **[Project 1 Report](https://github.com/Ruiznogueras05/ECE-5242_Intelligent-Autonomous-Systems-Projects/blob/main/Project1_TrafficConeDetection/media/Project%201%20Report.pdf)**.
 
 ---
 
