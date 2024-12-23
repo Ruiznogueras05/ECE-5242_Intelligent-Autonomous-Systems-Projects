@@ -43,7 +43,7 @@ Ensure you have the following:
 ---
 
 ## Project Report
-For a detailed explanation of the methodology, results, and insights from this project, please refer to the **[Project 1 Report](../media/Project1_Report.pdf)**.
+For a detailed explanation of the methodology, results, and insights from this project, please refer to the **[Project 1 Report](Project1_TrafficConeDetection/media/Project%201%20Report.pdf)**.
 
 ---
 
