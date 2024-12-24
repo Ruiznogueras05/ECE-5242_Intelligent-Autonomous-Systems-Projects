@@ -60,13 +60,12 @@ The project aimed to process IMU data and apply machine learning techniques to c
 
 ### Additional
 - **Trained Models Folder:** Contains saved HMM models and their respective log-likelihoods.
-- **README.txt:** Original documentation.
 
 ---
 
 ## Project Report
 
-For a detailed explanation of the methodology, results, and insights from this project, please refer to the **[Project 2 Report](https://github.com/Ruiznogueras05/ECE-5242_Intelligent-Autonomous-Systems-Projects/blob/main/Project2_IMUGestureRecognition/media/Project%202%20Report.pdf)**.
+For a detailed explanation of the methodology, results, and insights from this project, please refer to my **[Project 2 Report](https://github.com/Ruiznogueras05/ECE-5242_Intelligent-Autonomous-Systems-Projects/blob/main/Project2_IMUGestureRecognition/media/Project%202%20Report.pdf)**.
 
 ---
 
