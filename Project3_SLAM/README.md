@@ -65,9 +65,13 @@ The SLAM project focused on integrating sensor data and implementing a particle 
 
 ---
 
-## Project Report
+## Project Reports
 
-For a detailed explanation of the methodology, results, and insights from this project, please refer to the **[Project 3 Report](https://github.com/Ruiznogueras05/ECE-5242_Intelligent-Autonomous-Systems-Projects/blob/main/Project3_SLAM/media/Project%203%20Report.pdf)**.
+### Preliminary Writeup Checkup
+For an early overview of the project’s progress, initial methodology, and foundational work, refer to the **[Preliminary Report](https://github.com/Ruiznogueras05/ECE-5242_Intelligent-Autonomous-Systems-Projects/blob/main/Project3_SLAM/media/Preliminary%20Report.pdf)**.
+
+### Final Project Report
+For a comprehensive explanation of the methodology, results, and insights from this project, refer to the **[Project 3 Report](https://github.com/Ruiznogueras05/ECE-5242_Intelligent-Autonomous-Systems-Projects/blob/main/Project3_SLAM/media/Project%203%20Report.pdf)**.
 
 ---
 
