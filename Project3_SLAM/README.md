@@ -61,7 +61,9 @@ The SLAM project focused on integrating sensor data and implementing a particle 
 - **`SLAM.ipynb`**: Jupyter Notebook with the complete SLAM workflow, including data preprocessing, particle filter implementation, and mapping.
 
 ### Data
-- **Sensor Data:** Required `.mat` files for LiDAR, encoder, and IMU data.  
+- **Sensor Data:** Required `.mat` files for LiDAR, encoder, and IMU data.
+- **Screenshots Folder:** This folder contains images generated during testing, including trajectory tracking, LiDAR visualizations, and occupancy grid maps, providing insight into the algorithm’s performance.
+
 
 ---
 
@@ -80,7 +82,8 @@ For a comprehensive explanation of the methodology, results, and insights from t
 ### Achievements
 - Successfully developed a particle filter-based SLAM algorithm for accurate mapping and localization.  
 - Demonstrated the effectiveness of integrating wheel odometry and LiDAR data in noisy environments.  
-- Enhanced algorithmic efficiency and visualization tools for better performance analysis.  
+- Enhanced algorithmic efficiency and visualization tools for better performance analysis.
+- **Testing Results:** Visualized and documented the testing outcomes in the **screenshots** folder.
 
 ### Future Enhancements
 - **3D SLAM Implementation:** Extend the algorithm to support 3D environments.  
