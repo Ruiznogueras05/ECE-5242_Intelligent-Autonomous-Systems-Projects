@@ -19,10 +19,8 @@ The project aimed to process IMU data and apply machine learning techniques to c
 ## Getting Started
 
 ### Prerequisites
-1. **Hardware Requirements:**
-   - Access to an Inertial Measurement Unit (IMU) for collecting gesture data.
    
-2. **Software Requirements:**
+1. **Software Requirements:**
    - Python 3.7+.
    - Required libraries: `numpy`, `sklearn`, `pandas`, `matplotlib`, and `seaborn`.
 
